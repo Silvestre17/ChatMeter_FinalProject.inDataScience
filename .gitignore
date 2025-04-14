@@ -1,0 +1,16 @@
+# Folders and files to ignore
+.ipynb_checkpoints/
+_/
+Cartaz/
+Datasets/
+Datasets_Vodafone/
+Planeamento/
+Relatório/
+TM_SA_TA/
+Apresentação_PFACD_Vodafone.pptx
+PFACD_GuiãoApresentação_Final_Texto.docx
+PFACD_GuiãoApresentação_Final.pdf
+PFACD_Resultados_Grupo.xlsx
+Relatório de Progresso_PFACD_Vodafone.docx
+Relatório_PFACD_Vodafone_V2.docx
+Relatório_PFACD_Vodafone.docx
