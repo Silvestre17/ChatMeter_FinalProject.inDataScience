@@ -7,9 +7,15 @@
 
 # 💬 ChatMeter : AI Competitive Intelligence Solution 💡
 
+<p align="center">
+    <!-- Project Repository and Streamlit App Badges -->
+    <a href="https://github.com/Silvestre17/ChatMeter_FinalProject.inDataScience"><img src="https://img.shields.io/badge/Project_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
+    <a href="https://chatmeter.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App"></a>
+</p>
+
 ## 📝 Description
 
-ChatMeter is an AI-powered solution designed to analyze and understand the competitive landscape of **telecommunications operators** in the **Portuguese** 🇵🇹 market by monitoring social media. It helps businesses gain insights into customer sentiment, emerging trends, and competitor strategies.
+ChatMeter is an AI-powered solution designed to analyze and understand the competitive landscape of **telecommunications operators** in the **Portuguese** 🇵🇹 market. By monitoring social media, it provides businesses with crucial insights into customer sentiment, emerging topics, and competitor strategies, acting as a real-time "thermometer" for the market.
 
 <p align="center">
     <a href="https://www.vodafone.pt/"><img src="https://img.shields.io/badge/Vodafone-FF0000?style=for-the-badge&logo=vodafone&logoColor=white" alt="Vodafone" /></a>
@@ -18,13 +24,19 @@ ChatMeter is an AI-powered solution designed to analyze and understand the compe
     <a href="https://www.digi.pt/"><img src="https://img.shields.io/badge/DIGI-FFD700?style=for-the-badge&logo=digi&logoColor=white" alt="DIGI" /></a>
 </p>
 
+## 🎓 Project Context
+
+This project was developed for the **Projeto Final Aplicado a Ciência de Dados** (*Final Applied Project in Data Science I & II*) courses. This semester-long capstone project is a central part of the 3rd and final year of the **[Licenciatura em Ciência de Dados](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** (*Bachelor Degree in Data Science*) at **ISCTE-IUL**, completed in the 2023/2024 academic year. With this project, we aim to apply the knowledge and skills acquired throughout the course to a real-world problem, leveraging data science techniques to provide actionable insights and solutions for a real business challenge.
+
 ## ✨ Objective
 
-The primary objective of ChatMeter is to **develop a *"Sentiment and Topic Thermometer"* for Portuguese telecommunications operators**, enabling:
+The primary objective of ChatMeter is to develop a **"Sentiment and Topic Thermometer"** for Portuguese telecommunications operators. This tool enables stakeholders to:
 
-*   Identification of user needs, preferences, and behaviors on social media.
-*   Discovery of new opportunities, trends, and challenges in the sector.
-*   Support for informed decision-making in the telecommunications market.
+*   Identify user needs, preferences, and behaviors on social media.
+*   Discover new opportunities, trends, and challenges within the sector.
+*   Support data-driven, informed decision-making in a competitive market.
+
+
 
 <p align="center">
     <a href="https://facebook.com/vodafonept">
@@ -33,7 +45,7 @@ The primary objective of ChatMeter is to **develop a *"Sentiment and Topic Therm
 </p>
 
 
-## 🏗️ Project Structure (CRISP-DM)
+## 🏗️ Project Workflow (CRISP-DM)
 
 This project followed the CRISP-DM methodology for data mining. Here's a breakdown of the key activities in each phase:
 
@@ -148,16 +160,17 @@ This project followed the CRISP-DM methodology for data mining. Here's a breakdo
 
 ## **🗺️ Workflow**
 
-The project workflow can be summarized as follows:
+The project's end-to-end workflow is summarized below:
 
 <p align="center">
    <img src="./img/MasterPlanChatMeter.svg" alt="Project Workflow" width="800" height="auto" style="background-color: white; display: block;">
 </p>
+
 ---
 
-## **📊 Dashboard**
+## 📊 Interactive Dashboard
 
-Access the interactive dashboard here: [**`ChatMeter - Streamlit App`**](https://chatmeter.streamlit.app/)
+Access the live interactive dashboard here: **[ChatMeter - Streamlit App](https://chatmeter.streamlit.app/)**
 
 <p align="center">
    <a href="https://chatmeter.streamlit.app/">
@@ -165,6 +178,14 @@ Access the interactive dashboard here: [**`ChatMeter - Streamlit App`**](https:/
    </a>
 </p>
 
-<br>
+## 👥 Team Members (Group 5)
 
-**Note**: This project was developed in **PT-🇵🇹**.
+*   **André Silvestre** (Nº104532)
+*   **Eliane Gabriel** (Nº103303)
+*   **Maria João Lourenço** (Nº104716)
+*   **Maria Margarida Pereira** (Nº105877)
+*   **Umeima Adam Mahomed** (Nº99239)
+
+## 🇵🇹 Note
+
+This project was developed in **PT-🇵🇹**.
